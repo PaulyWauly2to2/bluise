@@ -1,7 +1,7 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "<!--StartFragment-->\n\nWelcome to the website of Paul Graham, an experienced Microsoft 365 Consultant and Customer Success Manager. With a passion for helping clients fully utilize information technology, Paul is dedicated to delivering innovative Microsoft 365 solutions that increase efficiency and productivity.\n\n<!--EndFragment-->",
+  "title": "Home",
+  "titleTemplate": "Home",
+  "welcomeText": "<!--StartFragment-->\n\n# Welcome to the website of Paul Graham\n\nAn experienced Microsoft 365 Consultant, with a passion for helping clients fully utilize information technology, Paul is dedicated to delivering innovative Microsoft 365 solutions that increase efficiency and productivity. \n\n<!--EndFragment-->",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
